@@ -11,7 +11,7 @@
 ### Bases de données
 - [Recensement Parcellaire Graphique](Bases%20de%20données/Recensement%20Parcellaire%20Graphique.md)
 - [Statistique Agricole Annuelle](Bases%20de%20données/Statistique%20Agricole%20Annuelle.md)
-- [Recensement Général Agricole](../Bases%20de%20données/Recensement%20Général%20Agricole.md)
+- [Recensement Général Agricole](Bases%20de%20données/Recensement%20Général%20Agricole.md)
 - Agence Bio
 - Mutualité Sociale Agricole
 - [SIRENE](https://outil-sources-interne.basic.coop/#/publication/2/sirene-sirene)
