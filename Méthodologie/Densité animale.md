@@ -3,7 +3,7 @@
 
 ### Bases de données :
 Les données utilisées pour déterminer le taux de densité d'herbivores (similaire au taux de chargement) sont issues des bases de données suivantes :
-- Recensement Général Agricole (2020)
+- [Recensement Général Agricole (2020)](../Bases%20de%20données/Recensement%20Général%20Agricole.md)
 - [Registre Parcellaire Graphique (2020)](../Bases%20de%20données/Recensement%20Parcellaire%20Graphique.md)
 
 ### Calcul
