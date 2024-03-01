@@ -3,6 +3,7 @@
 ## Documentation méthodologique
 ### Modélisations
 - [Production agricole en volume](Méthodologie/Production%20agricole%20en%20volume.md)
+- [Densité animale (herbivores)](Méthodologie/Densité%20animale.md)
 - Potentiel nourricier
 - Potentiel agro-industriel
 - Infrastructures agro-écologiques
