@@ -1,4 +1,3 @@
-
 # Production agricole en volume
 
 ### Bases de données :
@@ -8,8 +7,11 @@
 ### Calcul
 Les volumes de production sont issus d'une modélisation à partir de deux sources de données : la Statistique Agricole Annuelle (SAA) et le Registre Parcellaire Graphique (RPG). La SAA fournit les productions en volumes a l'échelle du département, que l'on répartit ensuite au prorata des surfaces agricoles par commune, fournies par le RPG.
 
-$$ Volume\:produit\:sur\:le\:territoire =$$
-$$ \frac{Volume\:produit\:dans\:le\:département\:(SAA) * Surface\:cultivée\:sur\:le\:territoire\:(RPG)}{Surface\:cultivée\:sur\:le\:département\:(RPG)}$$
+<!-- $$ Volume\:produit\:sur\:le\:territoire =$$
+$$ \frac{Volume\:produit\:dans\:le\:département\:(SAA) * Surface\:cultivée\:sur\:le\:territoire\:(RPG)}{Surface\:cultivée\:sur\:le\:département\:(RPG)}$$ -->
+
+Volume produit sur le territoire =
+Volume produit dans le département (SAA) * Surface cultivée sur le territoire (RPG)}{Surface cultivée sur le département (RPG)}
 
 On peut consulter la table de correspondance entre les surfaces cultivées RPG et les production agricoles de la SAA ici : https://outil-sources-interne.basic.coop/#/table/correspondances.rpg_trilettre__statistique_agricole_annuelle
 

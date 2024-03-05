@@ -15,4 +15,23 @@ Recensement exhaustif des exploitations françaises par formulaire en ligne, té
 > https://www.pleinchamp.com/actualite/la-methodologie-du-recensement-agricole
 > https://www.insee.fr/fr/information/6035938?sommaire=6035950
 
+## Nomenclatures
+
+Les surfaces agricoles sont détaillées dans l'édition 2020 dans cette nomenclature à 13 postes :
+1.   Céréales
+2.   Oléagineux
+3.   Plantes médicinales, à parfum, aromatiques et condimentaires
+4.   Fleurs et plantes ornementales
+5.   Vignes
+6.   Jachères
+7.   Protéagineux et légumes secs pour leur graine
+8.   Plantes à fibres et plantes industrielles diverses
+9.   Pommes de terre
+10.  Légumes frais, plants de légumes, melons ou fraises
+11.  Fourrages annuels
+12.  Prairies
+13.  Cultures fruitières
+
+Les chetpels dans cette nomenclature : https://outil-sources-interne.basic.coop/#/table/filieres.cheptel
+
 ## Limites
