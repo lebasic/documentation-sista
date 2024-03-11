@@ -19,3 +19,6 @@ On peut consulter la table de correspondance entre les surfaces cultivées RPG e
 Les volumes de betteraves industrielles et potagères sont répartis avec la donnée de surface de betterave totale (sucrières + potagères) du RPG (qui ne donne pas le détail de ces deux productions). Deux conséquences :
 1. Il est possible qu'un territoire ne produise qu'une seule de ces betteraves mais les données ne nous permettent pas de l'identifier. On affecte la même proportion qu'à l'échelle départementale.
 2. Comme ces deux productions ont des rendements très différents, on surestime un peu la production de betterave potagère et sous-estime un peu la betterave sucrière.
+
+## Implémentation
+https://github.com/lebasic/outil-analyse-durabilite/blob/master/modele_tat/PRODUCTION/Surfaces%20agricoles%20-%20productions%20en%20volume.py

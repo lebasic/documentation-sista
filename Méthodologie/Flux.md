@@ -31,9 +31,11 @@ Pour consulter la table : https://outil-sources-interne.basic.coop/#/table/filie
 ](https://lebasic.sharepoint.com/:w:/r/sites/Basic_shared_files/Documents%20partages/3%20-%20R%26D/7%20-%20Projets%20de%20recherche/2020-PRA%20analyse%20CV%20territoriale/3-Traitement%20Donn%C3%A9es/Notes%20m%C3%A9thodo/Correspondances%20de%20nomenclature%20Projet%20de%20recherche%20action.docx?d=w473720e0f72149ecb1ac7e9b3be733c7&csf=1&web=1&e=FDQYFf)
 
 ## Limites
-- Les imports exports sont calculés en utilisant Sitram, une source peu fiable basée sur un échantillonage de questionnaires à des camioneur.euses. La base n'est pas publique et potentiellement plus éditée depuis 2018
+- Les imports exports sont calculés en utilisant Sitram, une source peu fiable basée sur un échantillonage de questionnaires à des camioneur.euses. La base n'est pas publique et potentiellement plus éditée depuis 2018.
 
 - Les données à l'échelle de la commune ont peu de sens car souvent issues de totaux départementaux ou nationaux pro-ratisés par rapport à la population, à l'emploi ou la surface agricole.
 
 - N'utiliser qu'un chiffre significatif pour les imports/exports (et encore), 2 pour la production consommation, et systématiquement vérifier avec de la biblio.
 
+## Implémentation
+https://github.com/lebasic/outil-analyse-durabilite/tree/master/modele_flux

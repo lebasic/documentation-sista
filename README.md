@@ -4,7 +4,7 @@
 ### Modélisations
 - [Production agricole en volume](Méthodologie/Production%20agricole%20en%20volume.md)
 - [Densité animale (herbivores)](Méthodologie/Densité%20animale.md)
-- Potentiel nourricier (Parcel)
+- [Potentiel nourricier (Parcel)](Méthodologie/Potentiel%20nourricier.md)
 - Potentiel agro-industriel
 - Infrastructures agro-écologiques
 - [Flux de matière alimentaire](Méthodologie/Flux.md)
