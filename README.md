@@ -6,7 +6,7 @@
 - [Densité animale (herbivores)](Méthodologie/Densité%20animale.md)
 - [Potentiel nourricier (Parcel)](Méthodologie/Potentiel%20nourricier.md)
 - [Potentiel agro-industriel](Méthodologie/Potentiel%20agro-industriel.md)
-- Infrastructures agro-écologiques
+- [Infrastructures agro-écologiques](Méthodologie/Infrastructures%20agro-écologiques.md)
 - [Flux de matière alimentaire](Méthodologie/Flux.md)
 
 ### Bases de données
