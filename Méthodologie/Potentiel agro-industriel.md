@@ -7,7 +7,7 @@ Question de recherche :
 ## Bases de données
 - **Prodcom** : production en volume à l'échelle France
 - **Esane** : emplois IAA échelle France
-- **Sirene** : emploi IAA modélisé à l'échelle communale
+- **Sirene** : emplois IAA modélisés à l'échelle communale
 - **Parcel** : besoin alimentaires en équivalent matière première
 - **Basic** : proportion d'aliments transformés dans la consommation humaine
 
@@ -23,6 +23,7 @@ On multiplie ensuite cette intensité en emploi par les besoins de la population
 
 **Besoin agro-industriel = Besoin alimentaire en equivalent matière première (Parcel) * Proportion d'aliments consommés transformés (Basic) * Intensité en emploi (Basic)** en ETP pour le territoire, par catégorie de produit
 
+On compare ensuite ce besoin en ETP agro-industriels aux ETP présents sur le territoire, modélisés à partir de la base Sirene.
 
 ## Nomenclatures
 Une nomenclature spéciale permettant le regroupement par secteur industriel a été créée pour cette modélisation : https://outil-sources-interne.basic.coop/#/table/acteurs.potentiel_agroindustriel
