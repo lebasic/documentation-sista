@@ -8,6 +8,12 @@
 - [Potentiel agro-industriel](Méthodologie/Potentiel%20agro-industriel.md)
 - [Infrastructures agro-écologiques](Méthodologie/Infrastructures%20agro-écologiques.md)
 - [Flux de matière alimentaire](Méthodologie/Flux.md)
+- Restauration collective
+- Tourisme
+- Emplois territorialisés
+- Pesticides
+- Rica
+- Typologies des territoires (carte)
 
 ### Bases de données
 - [Recensement Parcellaire Graphique](Bases%20de%20données/Recensement%20Parcellaire%20Graphique.md)
