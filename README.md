@@ -8,8 +8,8 @@
 - [Potentiel agro-industriel](Méthodologie/Potentiel%20agro-industriel.md)
 - [Infrastructures agro-écologiques](Méthodologie/Infrastructures%20agro-écologiques.md)
 - [Flux de matière alimentaire](Méthodologie/Flux.md)
-- Restauration collective
-- Tourisme
+- [Restauration collective](Méthodologie/Restauration%20collective.md)
+- [Tourisme](Méthodologie/Tourisme.md)
 - Emplois territorialisés
 - Pesticides
 - Rica
