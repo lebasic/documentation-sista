@@ -10,7 +10,7 @@
 - [Flux de matière alimentaire](Méthodologie/Flux.md)
 - [Restauration collective](Méthodologie/Restauration%20collective.md)
 - [Tourisme](Méthodologie/Tourisme.md)
-- Emplois territorialisés
+- [Emplois territorialisés](Méthodologie/Emplois%20territorialisés.md)
 - Pesticides
 - Rica
 - Typologies des territoires (carte)
