@@ -40,7 +40,10 @@ Ces regroupements permettent de représenter de la même manière plusieurs sour
 
 ## Limites
 - Les surfaces des exploitations non déclarées à la PAC ne sont pas prises en compte : des cas typiques de sous estimation de la SAU par le RPG sont pour les régions viticoles du sud de la France.
-- Les chiffres d'évolution de la surface agricole du RPG ne sont pas très fiables à priori (du fait de changements de nomenclatures pour certaines années, ainsi que de la variabilité des surfaces déclarées chaque année).
+- Les chiffres d'évolution de la surface agricole du RPG ne sont pas très fiables à priori du fait de
+  - changements de nomenclatures pour certaines années
+  - de la variabilité des surfaces déclarées chaque année
+  - de l'assolement (rotation des cultures)
 
 - Noter aussi que les Estives et landes sont beaucoup déclarées à la PAC et se retrouvent dans le RPG, mais ce sont des surfaces qui sont peu productives et qu'on peut vouloir exclure de la SAU totale (comme dans la méthodologie Crater par exemple (voir correspondances.rpg_trilettre__crater)
 
