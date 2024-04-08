@@ -37,6 +37,17 @@ Au BASIC et notamment dans Sista on utilise plusieurs regroupements de ces surfa
 
 Ces regroupements permettent de représenter de la même manière plusieurs sources de données sur les surfaces (Teruti) et des modélisation BASIC (Parcel)
 
+### Surfaces peu productives
+On peut vouloir exclure de la surface agricole totale certaines surfaces jugées peu productives :
+- Jachère de 6 ans ou plus déclarée comme SIE
+- Jachère noire
+- Surface pastorale - herbe prédominante et ressources fourragères ligneuses présentes
+- Surface pastorale - ressources fourragères ligneuses prédominantes
+- Bois pâturé (prairie herbacée sous couvert d'arbres)
+- Jachère de 5 ans ou moins
+- Jachère de 6 ans ou plus
+Cette classification est reprise de l'outil Crater.
+
 
 ## Limites
 - Les surfaces des exploitations non déclarées à la PAC ne sont pas prises en compte : des cas typiques de sous estimation de la SAU par le RPG sont pour les régions viticoles du sud de la France.

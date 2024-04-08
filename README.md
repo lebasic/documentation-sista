@@ -16,6 +16,7 @@
 - [Flux de matière alimentaire](Méthodologie/Flux.md)
 - [Infrastructures agro-écologiques](Méthodologie/Infrastructures%20agro-écologiques.md)
 - [Rica](Méthodologie/Rica.md)
+- Agribalyse
 - Typologies des territoires (carte)
 
 ## Bases de données
