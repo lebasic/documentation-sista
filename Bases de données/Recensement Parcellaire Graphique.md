@@ -58,7 +58,8 @@ On peut vouloir exclure de la surface agricole totale certaines surfaces jugées
 - Bois pâturé (prairie herbacée sous couvert d'arbres)
 - Jachère de 5 ans ou moins
 - Jachère de 6 ans ou plus
-  Cette classification est reprise de l'outil Crater.
+
+Cette classification est reprise de l'outil Crater.
 
 ## Limites
 
