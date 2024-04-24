@@ -3,7 +3,7 @@
 - **Indicateur** : surface agricole par type de culture (bio et non bio)
 - **Échelle géographique** : parcelle agricole (agrégées en communes)
 - **Fréquence d'actualisation** : annuelle
-- [**Lien Data Gouv**](https://www.data.gouv.fr/fr/datasets/registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire/)
+- [**Lien vers les données**](https://geoservices.ign.fr/rpg)
 
 ## Jeux de données
 
@@ -12,6 +12,15 @@
 ## Méthode de collecte des données
 
 Chaque exploitant.e déclare chaque année quelle culture est effectuée sur ses parcelles, dans le but d'obtenir les subventions de la PAC. L'IGN effectue un pré-remplissage des formulaires de déclaration à l'aide d'image satellites.
+
+Trois cultures sont déclarées par les exploitant·es : 
+1. Culture principale
+2. Culture dérobée 1 (culture intercalée entre 2 moissons de culture principale)
+3. Culture dérobée 2
+
+Néanmoins à ce jour seule la culture principale a été intégrée à la base de données du Basic.
+
+**Traitement de données Basic** : Les données disponibles sont détaillées par parcelle de culture. Pour pouvoir les exploiter facilement au Basic on calcule la surface de l'intersection de chaque parcelle avec la surface de la commune, et on agrège les intersection par type de culture principale.
 
 ## Nomenclatures
 
@@ -66,7 +75,23 @@ Cette classification est reprise de l'outil Crater.
 - Les surfaces des exploitations non déclarées à la PAC ne sont pas prises en compte : des cas typiques de sous estimation de la SAU par le RPG sont pour les régions viticoles du sud de la France.
 - Les chiffres d'évolution de la surface agricole du RPG ne sont pas très fiables à priori du fait de
 
-  - changements de nomenclatures pour certaines années
+  - changements de nomenclatures pour certaines années, notamment l'année 2015 :
+> Attention : depuis l’édition 2015 (passage au RPG Version 2.0), certains codes de
+groupe de culture ne sont plus utilisés (10 : semences, 12 : gel industriel, 13 :
+autres gels et 27 : arboriculture) : les cultures correspondantes ont été transférées
+dans d’autres groupes et donc les valeurs 10, 12, 13 et 27 ont disparu.
+Les parcelles concernées par ces groupes de culture dans le RPG version 1.0 ont donc
+été affectées à d’autres groupes de cultures dans la version 2.0. Elles n’ont pas disparu :
+elles existent toujours, mais dans une nouvelle nomenclature.
+Ainsi généralement :
+• les parcelles du groupe 27 (Arboriculture) ont rejoint le groupe 20 (Vergers) ;
+• les parcelles des groupes 12 (Gel industriel) et 13 (Autres Gels) arrivent dans le
+groupe 11 (Gel (surfaces gelées sans production)) ;
+• les parcelles du groupe 10 (Semences) sont réparties selon leur nature :
+o groupe 1 = Blé tendre,
+o groupe 2 = Maïs grain et ensilage,
+o groupe 3 = Orge,
+o groupe 4 = Autres céréales). [Lire l'original](https://geoservices.ign.fr/sites/default/files/2023-11/DC_DL_RPG_2-1_0.pdf)
   - de la variabilité des surfaces déclarées chaque année
   - de l'assolement (rotation des cultures)
 
