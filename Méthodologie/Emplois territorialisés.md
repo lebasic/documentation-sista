@@ -34,7 +34,7 @@ Pour calculer les emplois du territoire on effectue alors la somme, par taille d
 
 ## Limites
 - Remplacer l'effectif réel par la médiane de la tranche est une grosse approximation ! La bonne nouvelle c'est que mathématiquement cette approximation est censée converger vers la vraie valeur quand le nombre d'établissement est élevé, mais peut se révéler très fausse quand on zoome sur un petit territoire et un secteur d'activité.
-- Il s'agit d'un effectif au 31 décembre et non d'un effectif équivalent temps plein. Pour des secteurs qui comportent beaucoup de temps partiel, cela peut donner une fausse idée de l'emploi du territoire.
+- Il s'agit d'un effectif au 31 décembre et non d'un effectif équivalent temps plein. Pour des secteurs qui comportent beaucoup de temps partiel, cela peut donner une fausse idée de l'emploi du territoire. Les secteurs comportant beaucoup de temps partiel : Distribution, Artisanat commercial, Restauration. Pour une vue détaillée, consulter le jeu de données Insee acheté en 2023 comportant à l'échelle France les emplois EqTP, les salaires bruts, les effectifs au 31 décembre par décile de revenu.
 
 
 ### Différences entre DDE et Sirene
