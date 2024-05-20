@@ -11,6 +11,9 @@ Question de recherche :
 - **Parcel** : besoin alimentaires en équivalent matière première
 - **Basic** : proportion d'aliments transformés dans la consommation humaine
 
+## Années
+Le besoin en emploi de transformation par habitant.e est calculé pour l'année 2017, mais l'emploi actuel et la population peut etre défini avec des données plus récentes.
+
 
 ## Calcul
 On commence par calculer une intensité en emploi par secteur d'activité :
